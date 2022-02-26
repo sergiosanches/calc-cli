@@ -11,10 +11,10 @@ fn main() {
   // validate 3 args: num op num
   let (args_num, _) = i_args.size_hint();
   if args_num != 3 {
-    println!("Error: please use 3 arguments: number operator number");
+    println!("Please use 3 arguments: number operator number");
     return;
   } else {
-    println!("Good, got 3 arguments");
+    println!("Calculating...");
   }
 
   let first_num: f64 = i_args.nth(0).unwrap().parse::<f64>().unwrap();
