@@ -2,4 +2,4 @@
 
 following this [tutorial for Rust Programming Course for Beginners](https://youtu.be/MsocPEZBd-M)
 
-made in [replit](replit.com)
+made in [replit](https://replit.com/@sergiosanches/calc-cli)
